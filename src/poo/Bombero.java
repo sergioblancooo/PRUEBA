@@ -26,5 +26,5 @@ public class Bombero extends Trabajador {
 			this.salario = this.salario * 1.10;
 		}
 		return this.salario;
-	} 
+	} //hola
 }
